@@ -1,3 +1,6 @@
+# It might be possible that you encounter error(s) while running this because of mysql/xampp or library(s) not installed.
+# But this will surely help you in your programs. All the BEST!
+
 from tkinter import *
 import tkinter as tk
 from tkinter import ttk
