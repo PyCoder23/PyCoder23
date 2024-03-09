@@ -1,3 +1,6 @@
+// It might be possible that you encounter error(s) while running this because of library(s) not installed or accessible.
+// But this will surely help you in your programs. All the BEST!
+
 import java.sql.*;
 import java.util.*;
 import java.util.Date;
@@ -391,7 +394,7 @@ public class Books{
 
     public static void main(String[] args) {
         LocalMySQL.main(args);
-        String pas = "Mayank@ATL";
+        String pas = "PASSWORD";
         Library myObj = new Library();
 
         try {
