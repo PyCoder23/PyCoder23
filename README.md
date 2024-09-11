@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on App developmet
 - 📫 How to reach me -> atltinkers3837@gmail.com
-- ⚡ Fun fact: I am in Grade 8th
+- ⚡ Fun fact: I am in Grade 9th
